@@ -10,8 +10,8 @@
 
 
 </style>
-<body>
+<body style='text-align:center'>
     <h1 style =text-align:center;color:red  > Мир пончиков</h1>
-    <img src='/uploads/2023/02/donut.png' width="300", height="300"/>
+    <img src='/uploads/2023/02/donut.png' width="300", height="300",/>
 </body>
 </html>
